@@ -11,10 +11,11 @@ Subscribe to the following repo to be notified of announcements and updates abou
 ## Roadm
 Check out what is on the [roadmap](https://github.com/Azure/AppConfiguration/projects/1) of Azure App Configuration and what the team is currently working on.
 
-## Examplaaa
+
+## comment ça va
 Learn how to use Azure App Configuration in your app from [a variety of examples](./examples/README.md).
 
-## REST API Reference
+## REST API biensûr
 
 Follow the links below for the Azure App Configuration REST API reference.
   * [Key-value data operation](https://docs.microsoft.com/azure/azure-app-configuration/rest-api)
