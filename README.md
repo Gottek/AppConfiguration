@@ -14,7 +14,7 @@ Check out what is on the [roadmap](https://github.com/Azure/AppConfiguration/pro
 ## comment ça va
 Learn how to use Azure App Configuration in your app from [a variety of examples](./examples/README.md).
 
-## REST API 
+## REST API biensûr
 
 Follow the links below for the Azure App Configuration REST API reference.
   * [Key-value data operation](https://docs.microsoft.com/azure/azure-app-configuration/rest-api)
